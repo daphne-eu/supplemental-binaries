@@ -1,0 +1,9 @@
+
+# IDE project settings
+.vscode
+.idea
+
+# Editor temp files
+.*~
+*.swp
+*.swo
